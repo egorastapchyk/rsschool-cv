@@ -1,6 +1,6 @@
-# <div align="center">Egor Astapchyk</div>
+# Egor Astapchyk
 
-#### <div align="center">My e-mail egorxast@gmail.com</div>
+#### My e-mail egorxast@gmail.com
 
 ---
 
