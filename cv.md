@@ -26,3 +26,9 @@ function solution(str) {
 > - [Wildberries](https://egorastapchyk.github.io/wildberries/) | [Repositorie Wildberries](https://github.com/egorastapchyk/wildberries)
 
 ---
+
+> **Linguistic and Humanities College of Moscow State Linguistic University**, ~~I am almost a linguist~~ (but this is not accurate <img src="https://www.svgrepo.com/show/98938/sad.svg" width="20"/>)
+
+---
+
+> Hope my **English** level is _A1_
