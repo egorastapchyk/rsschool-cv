@@ -16,3 +16,13 @@ function solution(str) {
   return str.split('').reverse().join('');
 }
 ```
+
+---
+
+> There is no work experience as such, but I participated in various online trainings in which small projects were written, examples can be found below:
+>
+> - [Axit](https://egorastapchyk.github.io/Axit/) | [Repositorie Axit](https://github.com/egorastapchyk/Axit)
+> - [iTunes](https://egorastapchyk.github.io/iTunes/) | [Repositorie iTunes](https://github.com/egorastapchyk/iTunes)
+> - [Wildberries](https://egorastapchyk.github.io/wildberries/) | [Repositorie Wildberries](https://github.com/egorastapchyk/wildberries)
+
+---
