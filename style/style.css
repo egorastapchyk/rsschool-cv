@@ -18,10 +18,27 @@ body {
   margin-left: auto;
   margin-right: auto;
 }
+.contacts {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  line-height: 0;
+}
+h4 {
+  margin: 0;
+}
 .contact {
-  text-align: center;
+  text-decoration: none;
 }
 .email {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.git {
+  margin-left: 5px;
+}
+.email,
+.git {
   color: #08c;
 }
 .line {
@@ -32,9 +49,20 @@ body {
   margin: 16px 0;
   font-size: inherit;
   padding: 0 15px;
+}
+.fourth-block {
+  font-size: 14px;
+}
+.fifth-block {
+  color: #5c5c5c;
+}
+.example {
+  margin: 16px 0;
+  font-size: inherit;
+  padding: 0 15px;
   color: #5c5c5c;
   background-color: #f0f0f0;
-  border-left: 4px solid #d6d6d6;
+  max-width: 100%;
 }
 .fun,
 .keyword {
@@ -60,4 +88,18 @@ body {
 .level {
   font-size: 18px;
   color: #000;
+}
+.footer {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.footerIcons {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.footerIconsImg {
+  width: 50px;
 }
